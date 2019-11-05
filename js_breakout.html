@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Breakout Game</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+<!--Navigation bar-->
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>                        
+            </button>
+            <a class="navbar-brand" href="index.html">Home</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li><a href="about.html">About</a></li>
+                <li><a href="index.html#programming">Programming</a></li>
+                <li><a href="index.html#mathematics">Mathematics</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="mailto:berilz@sfu.ca" target="_blank"><span class="glyphicon glyphicon-envelope"></span>Contact</a></li>
+                <li><a href="https://github.com/bqianz" target="_blank"><span class="glyphicon glyphicon-blackboard"></span>GitHub</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!--end of Navigation bar-->
+
+<!-- header -->
+<header height="200px">
+    <div class="container text-center">
+      <h1>[JavaScript] Breakout Game</h1>
+    </div>
+</header>
+
+<!-- Page Content -->
+<section>
+<div class="container">
+  <div class="row">
+    <!-- column holder -->
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p class="lead"><mark><a href = "js_breakout_demo.html">Completed demo.</a></mark></p>
+        <p> I followed the tutorial <a href="https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">"2D breakout game using pure JavaScript"</a> by MDN, then added the following changes:</p>
+        <ol>
+            <li class = "h3">More random ball launch:</li>
+            <ul>
+                <li>Begin at random horizontal positions instead of center.</li>
+                <li>Ball launches either to the left or right instead of only right.</li>
+            </ul>
+            <li class = "h3">Ball Statuses:</li>
+            <ol>
+            <li>Before launching</li>
+            <li>During game.</li>
+            <li>After winning</li>
+            </ol>
+            <p>Status 1 allows the ball to launch at a key-press or mouse-click, instead of launching as soon as the page loads.</p>
+            <p>Status 3 allows the player to stay on the page after winning to enjoy the sight of the clean canvas, while manouvering the paddle.</p>
+            <p>Also fixed the unsatisfying bug that the last block remains on canvas after winning.</p>
+            <li class = "h3">User Input Ball Speed:</li>
+            <p>Ball speed can be updated before each launch, but real-time update of ball speed would be more ideal.</p>
+        </ol>
+    </div>
+    <!-- column holder -->
+    <div class="col-lg-2"></div>
+  </div>
+</div>
+</section>
+
+
+</body>
+</html>
