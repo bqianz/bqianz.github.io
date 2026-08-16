@@ -26,6 +26,9 @@ This pattern of rhythm can also be seen in the complexity of the regions going f
 
 Again, this is in contrast to a pattern of complexities like "high-medium-low" that lacks rhythm.
 
+### What was I thinking?
+The abs are too plump they look like buns...next time I will give more thought into the shape of the shading.
+
 ### Process:
 ![](/assets/2026-08-14-calcharo-overclocking/pg1.jpg)
 ![](/assets/2026-08-14-calcharo-overclocking/pg2.jpg)
