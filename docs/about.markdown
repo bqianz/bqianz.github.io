@@ -10,5 +10,6 @@ Also find me on:
 - Xiaohongshu: [十西十](https://www.rednote.com/user/profile/62ef08ba000000001f014ddf)
 - 抖音： [十西十](https://www.douyin.com/user/MS4wLjABAAAAUfeam2rSDh91QU6Fr3KXPbZrhUeCLRLBUpbCAC7xZks)
 - Tiktok: [10queue10](https://www.tiktok.com/@10queue10)
+- Bilibili: [10queue10](https://space.bilibili.com/3706933664025241)
 - Instagram: [10queue10](https://www.instagram.com/10queue10)
 - X: [10queue10](https://x.com/10queue10?lang=en)
