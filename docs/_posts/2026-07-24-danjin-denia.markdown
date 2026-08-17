@@ -12,8 +12,6 @@ The character Danjin (with the red eyes) in Wuthering Waves is made for the flas
 
 As Danjin attacks, she sacrifices her health for an increase in attack and critical rate. Essentically, to complete this difficult end-game challenge called "Hologram VI", you must perfectly dodge or counter every one of the enemy's attacks for about 5 minutes. The cost of just one mistake, with Danjin's HP at a low of 1% most of the time, is immediate death.
 
-As a lover of rhythm games, and combat games like Sekiro, I really enjoy playing with Danjin and satisfying my perfectionist cravings. 
-
 ### Denia
 The character Denia (with the pink hair) is both a playable character and an enemy boss - one of bosses with the most aggressive attacks and unpredictable timings I think. 
 
