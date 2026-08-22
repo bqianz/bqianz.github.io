@@ -10,8 +10,8 @@ tags: allwishescometrue bingquan digital
 I watched the movie [All Wishes Come True](https://www.imdb.com/title/tt43515101/) and it made me want to draw yaoi.
 
 Here are the reference photos I used:
-![pose1](/assets/2026-08-22-all-wishes-come-true/pose1.WEBP)
-![pose2](/assets/2026-08-22-all-wishes-come-true/pose2.WEBP)
+![pose1](/assets/2026-08-22-all-wishes-come-true/pose1.webp)
+![pose2](/assets/2026-08-22-all-wishes-come-true/pose2.webp)
 
 ### Good things in this drawing
 - the muscles look less unnaturally plump compared to my last drawing
