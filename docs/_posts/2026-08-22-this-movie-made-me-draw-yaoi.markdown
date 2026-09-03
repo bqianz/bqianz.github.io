@@ -23,5 +23,5 @@ Here are the reference photos I used:
 - used a watercolor brush to fill in areas, the shading looks unorganized
 - took too long to complete
 
-### Things to remember for next time
+### Rremember for next time
 - if the goal is to not take too long with a piece, try neater lines and more simple shanding (three values at most)
