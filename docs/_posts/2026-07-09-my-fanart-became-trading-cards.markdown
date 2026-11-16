@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Fanart Became Trading Cards
+title: My fanart became trading cards
 image: /assets/2026-07-09-my-fanart-became-trading-cards/45_zoom.PNG
 tags: colour digital digitalcolour roadtoempress
 ---
