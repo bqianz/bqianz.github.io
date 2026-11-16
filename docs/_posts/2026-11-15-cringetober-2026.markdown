@@ -2,7 +2,7 @@
 layout: post
 title:  "Cringetober 2026 Challenge"
 image: /assets/2026-11-15-cringetober-2026/prompts.png
-tags: cringetober cringetober2025 traditional challenge arcane inuyasha wutheringwaves roadtoempress
+tags: cringetober cringetober2026 challenge
 ---
 
 ![prompts](/assets/2026-11-15-cringetober-2026/prompts.png)
