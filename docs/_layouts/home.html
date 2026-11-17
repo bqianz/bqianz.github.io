@@ -40,7 +40,9 @@ layout: default
         <!-- Wrap each individual item in the masonry-item class -->
         <div class="masonry-item">
           {%- if site.show_excerpts -%}
+          <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.excerpt }}
+          </a>
           {%- endif -%}
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">

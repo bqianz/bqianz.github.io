@@ -8,7 +8,7 @@ tags: digital colour digitalcolour roadtoempress
 
 ![45_backs](/assets/2026-06-17-road-to-empress/45_backs.png)
 
-Fanart of the interactive film game [Road to Empress](https://store.steampowered.com/app/3478050/Road_to_Empress_I/).
+Fanart of the interactive film game [Road to Empress](https://store.steampowered.com/app/3478050/Road_to_Empress_I/). Process [here](/assets/2026-06-17-road-to-empress/45.mp4).
 
 ### The game
 Road to Empress Part 1 was a great game; it was entertaining and just the right length. Ridiculously funny things were happening to the protagonist and I felt like my choices in the game mattered in where the plot is heading.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Danjin Solo Hologram VI: Denia"
 image: /assets/2026-07-24-danjin-denia/dd.png
-tags: wutheringwaves denia danjin digital
+tags: wutheringwaves denia danjin digital digitalcolour
 ---
 
 ![Danjin Solo Denia](/assets/2026-07-24-danjin-denia/dd.png)

@@ -2,7 +2,7 @@
 layout: post
 title:  "This movie made me draw yaoi"
 image: /assets/2026-08-22-all-wishes-come-true/binquan.png
-tags: allwishescometrue bingquan digital
+tags: allwishescometrue bingquan digital bnw
 ---
 
 ![BingQuan](/assets/2026-08-22-all-wishes-come-true/binquan.png)

@@ -2,7 +2,7 @@
 layout: post
 title:  "Calcharo Overclocking"
 image: /assets/2026-08-14-calcharo-overclocking/calcharo.jpg
-tags: wutheringwaves calcharo overclock traditional markers
+tags: wutheringwaves calcharo overclock traditional markers bnw
 ---
 
 ![Calcharo](/assets/2026-08-14-calcharo-overclocking/calcharo.jpg)
