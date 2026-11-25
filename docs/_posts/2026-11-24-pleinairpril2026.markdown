@@ -1,0 +1,131 @@
+---
+layout: post
+title: Pleinairpril 2026
+image: 
+tags: challenge pleinairpril
+assetPath: /assets/2026-11-24-pleinairpril2026
+---
+
+![07]({{ page.assetPath }}/D07.PNG)
+
+Plein-air painting is the act of painting outdoors. The theme of this year's [Pleinairpril](https://www.warriorpainters.com/pleinairpril) challenge is Harmony in Contrast. My goal of doing this challenge is to improve my skills in picking and matching colours. 
+
+The concept of plein air painting is peak “romanticizing everyday life” but reality is cold…April in Vancouver is still quite chilly. So some of these paintings are based on what I see in real life and some of these are based on photos I find online.
+
+![01]({{ page.assetPath }}/D01.PNG)
+#### Day 01: Purple and Yellow
+- En Plein Air: No
+- Time spent: 1.5 hours
+- Reference: [1]({{ page.assetPath }}/ref01a.jpg), [2]({{ page.assetPath }}/ref01b.jpg)
+
+![02]({{ page.assetPath }}/D02.PNG)
+#### Day 02: Teal Oranges
+- En Plein Air: No
+- Time spent: 1.25 hours
+- Reference: [1]({{ page.assetPath }}/ref02.jpg)
+
+![03]({{ page.assetPath }}/D03.PNG)
+#### Day 03: Restaurant in Richmond
+- En Plein Air: Yes
+- Time spent: 2.5 hours
+- eference: [1]({{ page.assetPath }}/ref03.jpg)
+
+![04]({{ page.assetPath }}/D04.PNG)
+#### Day 04: Tiny Salmon
+- En Plein Air: Yes
+- Time spent: 2 hours
+- Reference: [1]({{ page.assetPath }}/ref04.jpg)
+
+![05]({{ page.assetPath }}/D05.PNG)
+#### Day 05: Thumbnail studies
+- En Plein Air: No
+- Time spent: 1.5 hours
+- Reference: [1]({{ page.assetPath }}/ref05.jpg)
+
+![06]({{ page.assetPath }}/D06.PNG)
+#### Day 06: Aquarium
+- En Plein Air: Yes but based on a video I took a year ago
+- Time spent: 1 hour
+- Reference: [1]({{ page.assetPath }}/ref06.jpg)
+
+![07]({{ page.assetPath }}/D07.PNG)
+#### Day 07: Blending Mode
+- En Plein Air: No
+- Time spent: 2.5 hours
+- Reference: [1]({{ page.assetPath }}/ref07.jpg)
+- This is probably my favourite in this challenge. I first brushed in big colour blocks, then went on to render half of the picture, at which point I became very tired of rendering. So I wanted to do a different style for the other half of the picture. I played around with layer blending modes and arrived at something that made the colours look retro-cartoony and cool (I can't remember exactly but the blending mode might have been "difference"). Then I finished the rendering on the cartoony half with some stylized brushes.
+
+![08]({{ page.assetPath }}/D08.PNG)
+#### Day 08: Sunny Waterside
+- En Plein Air: Yes
+- Time spent: 1 hour
+- Reference: [1]({{ page.assetPath }}/ref08.jpg)
+- I started painting this one outdoors sitting in front of these flowers, but the sun was so strong I couldn't see my screen…I had to repaint this indoors, which is sadly not as romantic.
+
+![09]({{ page.assetPath }}/D09.PNG)
+#### Day 09: Foggy
+- En Plein Air: No
+- Time spent: 0.8 hours
+- Reference: [1]({{ page.assetPath }}/ref09.jpg)
+
+![10]({{ page.assetPath }}/D10.PNG)
+#### Day 10: Cherry Blossom Tree
+- En Plein Air: Yes
+- Time spent: 1 hour
+- Reference: [1]({{ page.assetPath }}/ref10.jpg)
+
+![11]({{ page.assetPath }}/D11.PNG)
+#### Day 11: Departure
+- En Plein Air: Yes
+- Time spent: 2.4 hours
+- Reference: [1]({{ page.assetPath }}/ref11.jpg)
+
+![12]({{ page.assetPath }}/D12.PNG)
+#### Day 12: Red Autumn
+- En Plein Air: No
+- Time spent: 1.5 hours
+- Reference: [1]({{ page.assetPath }}/ref12.jpg)
+
+![13]({{ page.assetPath }}/D13.PNG)
+#### Day 13: Space Odyssey
+- En Plein Air: No
+- Time spent: 1 hour
+- Reference: [1](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
+- I was on the plane at this point.
+
+![14]({{ page.assetPath }}/D14.PNG)
+#### Day 14: Ripples 
+- En Plein Air: No
+- Time spent: 1.5 hours
+- Reference: [1]({{ page.assetPath }}/ref14.jpg)
+- Also on the plane.
+
+![15]({{ page.assetPath }}/D15.PNG)
+#### Day 15: Hometown
+- En Plein Air: Yes
+- Time spent: 0.8 hours
+- Reference: [1]({{ page.assetPath }}/ref15.jpg)
+- In my grandparents house in China. After this I was too busy travelling and lost my streak.
+
+![35]({{ page.assetPath }}/D35.PNG)
+#### Day 35: Chinese retired life
+- En Plein Air: Yes
+- Time spent: 1.4 hours
+- Reference: [1]({{ page.assetPath }}/ref35.jpg)
+- At this point it's past April but I tried to makeup the days I missed
+
+![36]({{ page.assetPath }}/D36.PNG)
+#### Day 36: Chinese Chiikawa
+- En Plein Air: Yes
+- Time spent: 1.4 hours
+- Reference: [1]({{ page.assetPath }}/ref36.jpg)
+
+![37]({{ page.assetPath }}/D37.PNG)
+#### Day 37: Chinese Park at Night
+- En Plein Air: Yes
+- Time spent: 0.6 hours
+- Reference: [1]({{ page.assetPath }}/ref37.jpg)
+- Lost my steam and stopped the challenge here.
+
+My retrospective thought is that colour is so closely related to composition, which to me is the rhythm of blocks of colours based on value and saturation, and a little bit on hue. When I was drawing from pictures the composition was already given and already beautiful, so I wasn't really practicing the thought process on composition (which is the most difficult thing for me when I'm drawing original pieces). Next year if I do this again I will probably switch things up so that I am forced to think hard about composition.
+
